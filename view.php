@@ -32,7 +32,7 @@ function remove(id)
 </head>
 
 <body>
-<form method="post" enctype="multipart/form-data" action="muldelete.php">
+<form method="post" enctype="multipart/form-data" action="mdelete.php">
 <table  align="center" bgcolor="#ffffff" border="2" bordercolor="#0000FF">
 		<tr>
 		<td align="right" colspan="9"><font color="#000000"><?php echo $_SESSION['email'];?></font></td>
